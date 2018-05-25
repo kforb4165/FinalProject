@@ -1,6 +1,6 @@
 # FinalProject
 
-This is my final project code for my AP Computer Science A class.
+This is my final project code for my AP Computer Science A class. The project runs on Android devices, minimum SDK 16 (Android "Jelly Bean"). It allows the user to see the representatives and senators from a particular state and view details about them, sometimes including contact information. The data used for this application comes from the ProPublica Congress API (https://projects.propublica.org/api-docs/congress-api/).
 
 ## Use
 
